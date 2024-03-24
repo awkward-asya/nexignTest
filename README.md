@@ -12,6 +12,7 @@
 
 Возможно три варианта вызова. 
 1. По умолчанию (без аргументов) выводится отчет по всем абонентам за весь год
+
 ![](https://github.com/awkward-asya/nexignTest/blob/master/images/Снимок%20экрана%202024-03-24%20в%2020.45.38.png)
 ![](https://github.com/awkward-asya/nexignTest/blob/master/images/Снимок%20экрана%202024-03-24%20в%2020.47.56.png)
 
